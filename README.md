@@ -77,6 +77,6 @@ This project presents a 5-year Leveraged Buyout (LBO) financial model developed 
 This project is created for educational and financial modeling practice purposes only. The assumptions and projections are illustrative and do not represent actual investment advice or a recommendation to invest.
 
 ## Author
-**Purna Chandra Ogiboyina**
+**PurnaChandra Ogiboyina**
 
 Aspiring Finance Professional | Financial Modeling | Investment Banking Operations
